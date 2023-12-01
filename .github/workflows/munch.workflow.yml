@@ -3,7 +3,7 @@ run-name: Klinker Kernel Munch
 
 on:
   push:
-    branches: [ staging ]
+    branches: [ Wstudiawan-patch-1 ]
 
   workflow_dispatch:
 
